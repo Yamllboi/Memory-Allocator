@@ -69,6 +69,4 @@ This simulator is perfect for computer science students learning about:
 - Process priority handling
 - Simulated virtual memory with paging
 
-## License
 
-MIT License - Feel free to use, modify and distribute as needed.
